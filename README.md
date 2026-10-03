@@ -34,8 +34,6 @@
 
 <br>
 
----
-
 <div align="center">
 
 ### <img src="https://skillicons.dev/icons?i=discord" width="18"> Discord & Live Activity
