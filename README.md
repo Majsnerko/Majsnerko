@@ -1,12 +1,12 @@
 <div align="center">
 
-# I'm <font color="#8b1d3d">majsnerkos</font>
+# I'm <span style="color:#8b1d3d">majsnerko</span>
 
 <img src="https://skillicons.dev/icons?i=code" width="18">
 
 **Developer**
 
-<font color="#8b1d3d">Turning complex ideas into clean code</font>
+<span style="color:#8b1d3d">The best developer the world has ever seen</span>
 
 </div>
 
@@ -20,13 +20,13 @@
 
 <br>
 
-<img src="https://img.icons8.com/ios/24/8b1d3d/fingerprint.png">
+<img src="https://img.icons8.com/ios-filled/24/ffffff/user.png">
 
-&nbsp;&nbsp; Hey, I'm <b>majsnerkos</b> - Based in Czech Republic
+&nbsp;&nbsp; Hey, I'm <b>majsnerko</b> - Based in Czech Republic
 
 <br><br>
 
-<img src="https://img.icons8.com/ios/24/8b1d3d/smiling.png">
+<img src="https://img.icons8.com/ios-filled/24/ffffff/light-on.png">
 
 &nbsp;&nbsp; Always open to new ideas & happy to help with your custom requests anytime
 
