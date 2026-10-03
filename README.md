@@ -96,6 +96,6 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,python,vscode" height="36">
+<img src="https://skillicons.dev/icons?i=,github,python,vscode" height="36">
 
 </div>
