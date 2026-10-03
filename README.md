@@ -24,7 +24,7 @@
 
 <p align="center">
 <img src="https://img.icons8.com/ios/24/ffffff/fingerprint.png">
-&nbsp;&nbsp; Hey, I'm <b>majsnerko</b> - Based in Czech Republic
+&nbsp;&nbsp; Hey, I'm <b>majsnerko</b> - Based in Mars
 </p>
 
 <p align="center">
