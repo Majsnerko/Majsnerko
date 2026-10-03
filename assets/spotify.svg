@@ -1,6 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="660" height="180">
-<rect width="660" height="180" rx="14" fill="#14171c"/>
-<text x="330" y="95" text-anchor="middle" fill="#888" font-family="Arial" font-size="16">
-Spotify loading...
-</text>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="660"
+     height="180"
+     viewBox="0 0 660 180">
+
+    <rect width="660"
+          height="180"
+          rx="14"
+          fill="#14171c"/>
+
+    <circle cx="45"
+            cy="45"
+            r="18"
+            fill="#1DB954"/>
+
+    <text x="75"
+          y="51"
+          fill="#ffffff"
+          font-family="Arial, sans-serif"
+          font-size="20"
+          font-weight="bold">
+        Spotify
+    </text>
+
+    <text x="330"
+          y="105"
+          text-anchor="middle"
+          fill="#888888"
+          font-family="Arial, sans-serif"
+          font-size="16">
+        Nothing playing right now
+    </text>
+
 </svg>
