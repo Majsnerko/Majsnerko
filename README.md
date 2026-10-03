@@ -88,7 +88,7 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=react,,nodejs,html,css" height="36">
+<img src="https://skillicons.dev/icons?i=,nodejs,html,css" height="36">
 
 <br><br>
 
