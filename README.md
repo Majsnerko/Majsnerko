@@ -60,7 +60,7 @@
 
 <a href="https://open.spotify.com/">
 
-<img src="https://lanyard.cnrad.dev/api/1285711543622701077?theme=dark&bg=14171c&borderRadius=10px&hideProfile=true&hideStatus=true&hideBadges=true&hideActivity=true" width="330">
+<img src="./assets/spotify.svg" width="330">
 
 </a>
 
@@ -68,6 +68,7 @@
 
 <br>
 
+---
 
 <div align="center">
 
