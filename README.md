@@ -29,7 +29,7 @@
 
 <p align="center">
 <img src="https://img.icons8.com/ios/24/ffffff/smiling.png">
-&nbsp;&nbsp; Always open to new ideas & happy to help with your custom requests anytime mby ? :)
+&nbsp;&nbsp; Always open to new ideas & happy to help with your custom requests anytime :)
 </p>
 
 <br>
@@ -80,7 +80,7 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=lua,js,,mysql" height="36">
+<img src="https://skillicons.dev/icons?i=lua,js,mysql" height="36">
 
 <br><br>
 
@@ -88,7 +88,7 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=,nodejs,html,css" height="36">
+<img src="https://skillicons.dev/icons?i=nodejs,html,css" height="36">
 
 <br><br>
 
@@ -96,6 +96,6 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=,github,python,vscode" height="36">
+<img src="https://skillicons.dev/icons?i=github,python,vscode" height="36">
 
 </div>
