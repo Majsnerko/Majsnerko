@@ -12,8 +12,6 @@
 
 <br>
 
----
-
 <div align="center">
 
 ### <img src="https://skillicons.dev/icons?i=github" width="18"> About Me
@@ -34,8 +32,6 @@
 
 <br>
 
----
-
 <div align="center">
 
 ### <img src="https://skillicons.dev/icons?i=discord" width="18"> Discord & Live Activity
@@ -52,8 +48,6 @@
 
 <br>
 
----
-
 <div align="center">
 
 ### <img src="https://skillicons.dev/icons?i=spotify" width="18"> Spotify
@@ -69,8 +63,6 @@
 </div>
 
 <br>
-
----
 
 <div align="center">
 
