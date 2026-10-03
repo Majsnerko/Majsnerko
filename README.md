@@ -12,37 +12,65 @@
 
 <br>
 
+---
+
 <div align="center">
 
 ### <img src="https://skillicons.dev/icons?i=github" width="18"> About Me
 
-</div>
-
 <br>
 
-<p align="center">
 <img src="https://img.icons8.com/ios/24/8b1d3d/fingerprint.png">
+
 &nbsp;&nbsp; Hey, I'm <b>majsnerkos</b> - Based in Czech Republic
-</p>
-
-<p align="center">
-<img src="https://img.icons8.com/ios/24/8b1d3d/smiling.png">
-&nbsp;&nbsp; Always open to new ideas & happy to help with your custom requests anytime
-</p>
-
-<br>
-
-<div align="center">
-
-<sub>• My Discord & Live Activity</sub>
 
 <br><br>
 
-<img src="https://lanyard.cnrad.dev/api/1285711543622701077" width="330">
+<img src="https://img.icons8.com/ios/24/8b1d3d/smiling.png">
+
+&nbsp;&nbsp; Always open to new ideas & happy to help with your custom requests anytime
 
 </div>
 
 <br>
+
+---
+
+<div align="center">
+
+### <img src="https://skillicons.dev/icons?i=discord" width="18"> Discord & Live Activity
+
+<br>
+
+<a href="https://discord.com/users/1285711543622701077">
+
+<img src="https://lanyard.cnrad.dev/api/1285711543622701077?theme=dark&bg=14171c&borderRadius=10px&hideSpotify=true" width="330">
+
+</a>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### <img src="https://skillicons.dev/icons?i=spotify" width="18"> Spotify
+
+<br>
+
+<a href="https://open.spotify.com/">
+
+<img src="https://lanyard.cnrad.dev/api/1285711543622701077?theme=dark&bg=14171c&borderRadius=10px&hideProfile=true&hideStatus=true&hideBadges=true&hideActivity=true" width="330">
+
+</a>
+
+</div>
+
+<br>
+
+---
 
 <div align="center">
 
