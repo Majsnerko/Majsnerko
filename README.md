@@ -29,7 +29,7 @@
 
 <p align="center">
 <img src="https://img.icons8.com/ios/24/ffffff/smiling.png">
-&nbsp;&nbsp; Always open to new ideas & happy to help with your custom requests anytime :)
+&nbsp;&nbsp; Always open to new ideas & happy to help with your custom requests anytime mby :)
 </p>
 
 <br>
