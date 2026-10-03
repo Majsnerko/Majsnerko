@@ -12,6 +12,8 @@
 
 <br>
 
+---
+
 <div align="center">
 
 ### <img src="https://skillicons.dev/icons?i=github" width="18"> About Me
@@ -31,6 +33,8 @@
 </div>
 
 <br>
+
+---
 
 <div align="center">
 
@@ -63,6 +67,7 @@
 </div>
 
 <br>
+
 
 <div align="center">
 
