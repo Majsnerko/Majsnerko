@@ -80,7 +80,7 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=lua,js,ts,mysql" height="36">
+<img src="https://skillicons.dev/icons?i=lua,js,,mysql" height="36">
 
 <br><br>
 
@@ -88,7 +88,7 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css" height="36">
+<img src="https://skillicons.dev/icons?i=react,,nodejs,html,css" height="36">
 
 <br><br>
 
